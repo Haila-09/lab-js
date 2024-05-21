@@ -1,7 +1,7 @@
 let lengthRectangle = 10;
 let widthRectangle = 5;
 
-let theAreaRectangle = lengthRectangle * widthRectangle *2;
+let theAreaRectangle = lengthRectangle * widthRectangle ;
 console.log(theAreaRectangle);
 
 
@@ -24,10 +24,11 @@ let resultDegree =  (FahrenheitTemperature - 32) / 1.8;
 console.log(resultDegree);
 
 // question three
-let hour = 6;
+let hours = 1;
 let second = 3600;
 
-console.log(hour*second)
+console.log(hours*3600)
+console.log(second/3600)
 
 
 
